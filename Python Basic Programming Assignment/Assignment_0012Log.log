@@ -1,0 +1,12 @@
+2021-04-17 21:47:48,436 Ques1 WARNING The given data:[1, 2, 3, 4] is a <class 'list'> ,But not a Dictionary
+2021-04-17 21:48:03,237 Ques1 WARNING The given data:{1, 2, 3, 4} is a <class 'set'> ,But not a Dictionary
+2021-04-17 21:48:04,031 Ques1 WARNING The given data:{1, 2, 3, 4} is a <class 'set'> ,But not a Dictionary
+2021-04-17 21:49:00,891 Ques1 WARNING The given data:(1, 2, 3, 4) is a <class 'tuple'> ,But not a Dictionary
+2021-04-17 22:19:30,608 Ques2 WARNING The given data:[1, 2, 3, 4] is a <class 'list'> ,But not a Dictionary
+2021-04-17 22:21:09,332 Ques2 WARNING The given data:[1, 2, 3, 4] is a <class 'list'> ,But not a Dictionary
+2021-04-17 22:21:40,362 Ques2 WARNING The given data:[1, 2, 3, 4] is a <class 'list'> ,But not a Dictionary
+2021-04-17 22:24:21,120 Ques2 WARNING The given data:{1, 2, 3, 4} is a <class 'set'> ,But not a Dictionary
+2021-04-17 22:48:31,558 Ques2 WARNING The given data:[1, 2, 3, 4] is a <class 'list'> and [1, 2, 3, 4] is a <class 'list'>
+2021-04-17 22:49:52,726 Ques2 WARNING The given data:{1, 2, 3, 4} is a <class 'set'> and {1, 2, 3, 4} is a <class 'set'>
+2021-04-17 22:50:48,045 Ques3 WARNING The given data:[1, 2, 3, 4] is a <class 'list'> and [1, 2, 3, 4] is a <class 'list'>
+2021-04-17 22:50:49,756 Ques3 WARNING The given data:{1, 2, 3, 4} is a <class 'set'> and {1, 2, 3, 4} is a <class 'set'>
